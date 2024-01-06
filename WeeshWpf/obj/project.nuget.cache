@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+/LHcTGjBWzqWBv4O36saClKIzzTtb8S5GSsZ2UGgG0lSAcVKHvqEJKLxY5fAPwOJknEyJx8m3EAe8YLgrv0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Денис\\source\\repos\\WeeshWpf\\WeeshWpf\\WeeshWpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
